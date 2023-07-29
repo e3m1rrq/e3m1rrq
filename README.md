@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 👤 I'm Emir.
+- 🎂 14 Years old.
+- 🎯 My goal is being software engineering and I'm training for that.
+- 🐱 I have a cat. Her name is Mia
+
 <!--
 **e3m1rrq/e3m1rrq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
