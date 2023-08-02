@@ -1,21 +1,11 @@
-### Hi there 👋
+👋 Merhaba! I'm Emir, a 14-year-old enthusiast with a passion for coding, technology, computers, innovations, cats, chess, and humor. 🐱♟️
 
-- 👤 I'm Emir.
-- 🎂 14 Years old.
-- 🎯 My goal is being software engineering and I'm training for that.
-- 🐱 I have a cat. Her name is Mia
+🌐 My English proficiency is at B1 level, thanks to which I had the opportunity to go to Portugal during the 7th grade through the Erasmus+ project.
 
-<!--
-**e3m1rrq/e3m1rrq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm determined to become a future software engineer and I'm putting in every effort to achieve that goal.
 
-Here are some ideas to get you started:
+🔍 Previously, I had to leave my previous Github account for various reasons, but now I'm excited to continue working on my projects on this Github profile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔮 Let's embrace the world of technology together and make amazing things happen! Feel free to explore my repositories and join me on this coding journey.
+
+📚 "Learning is a treasure that will follow its owner everywhere." - Chinese Proverb 🌟
