@@ -1,4 +1,4 @@
-👋 Merhaba! I'm Emir, a 14-year-old enthusiast with a passion for coding, technology, computers, innovations, cats, chess, and humor. 🐱♟️
+👋 Hi! I'm Emir, a 14-year-old enthusiast with a passion for coding, technology, computers, innovations, cats, chess, and humor. 🐱♟️
 
 🌐 My English proficiency is at B1 level, thanks to which I had the opportunity to go to Portugal during the 7th grade through the Erasmus+ project.
 
